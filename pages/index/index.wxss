@@ -1,0 +1,20 @@
+.container {
+  height: 100vh;              /* 高 100 视图单位 */
+  display: flex;              /* Flex 布局 */
+  flex-direction: column;     /* 垂直布局 */
+  align-items: center;        /* 水平居中 */
+  justify-content: space-around; /* 垂直方向均匀分布 */
+}
+image {
+  width: 300rpx;              /* 图片宽度 */
+  border-radius: 50%;         /* 圆形头像 */
+}
+text {
+  font-size: 50rpx;           /* 字体大小 */
+}
+.avatar {
+  width: 300rpx;        /* 宽高要相等 */
+  height: 300rpx;
+  border-radius: 50%;   /* 圆形关键 */
+  overflow: hidden;     /* 裁剪多余部分 */
+}
