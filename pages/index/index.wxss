@@ -1,0 +1,48 @@
+/* index.wxss */
+.container {
+  min-height: 100vh;   /* 页面至少占满一屏 */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* 从上往下排 */
+  padding: 20rpx;
+  box-sizing: border-box;
+}
+
+.region {
+  font-size: 32rpx;
+  margin-bottom: 20rpx;
+  color: #333;
+}
+
+.temp {
+  font-size: 80rpx;
+  color: #3C5F81;
+  margin: 20rpx 0;
+}
+
+image {
+  width: 220rpx;
+  margin-bottom: 20rpx;
+}
+
+/* 区域4整体样式 */
+.detail {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 区域4单元行样式 */
+.bar {
+  display: flex;
+  flex-direction: row;
+  margin: 20rpx 0;
+}
+
+/* 区域4单元格样式 */
+.box {
+  width: 33.3%;
+  text-align: center;
+  font-size: 28rpx;
+}
