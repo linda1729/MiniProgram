@@ -1,3 +1,3 @@
 # MiniProgram
-Record the experimental process and learning gains in the 2025 Summer Mobile Software Development course. 
-Each experiment corresponds to a different branch, such as: the first experiment corresponds to lab1.
+This repository documents the lab work and learning outcomes from the Mobile Software Development course in the summer of 2025.
+Each lab corresponds to a different branch — for example, Lab 1 corresponds to the branch lab1.
