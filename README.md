@@ -1,3 +1,3 @@
 # MiniProgram
-记录25夏移动软件开发课中的实验过程和学习收获。
-每次实验对应不同分支，如：第一次实验对应lab1.
+Record the experimental process and learning gains in the 2025 Summer Mobile Software Development course. 
+Each experiment corresponds to a different branch, such as: the first experiment corresponds to lab1.
