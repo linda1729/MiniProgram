@@ -1,0 +1,15 @@
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "navigationBarTitleText": "天气查询",
+    "navigationBarBackgroundColor": "#f0c0cb",
+    "navigationBarTextStyle": "black",
+    "backgroundTextStyle": "dark"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": { "desc": "用于根据定位查询当地天气" }
+  }
+}
+

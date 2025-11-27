@@ -1,0 +1,68 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# 微信小程序开发工具缓存
+/project.private.config.json
+/miniprogram_npm/
+*/miniprogram_npm/
+
+# HarmonyOS 临时文件
+/.preview/
+.cache/
+*.hap
+
+# VSCode 配置
+.vscode/
+
+# 编译输出
+dist/
+out/
+tmp/
+temp/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Node
+/node_modules
+npm-debug.log*
+
+# 小程序开发工具
+/miniprogram_npm/
+/project.private.config.json
+/project.config.json.backup
+/dist/
+*.uploadtmp
+
+# HarmonyOS / DevEco
+/oh_modules
+/.hvigor
+/.preview/
+/build/
+/out/
+/cache/
+/.cxx
+*.hap
+
+# IDE / 系统文件
+/.idea
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 测试 / 临时
+**/.test
+temp/
+tmp/
+
